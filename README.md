@@ -1,4 +1,5 @@
-# PyroUbot Premium - Userbot Telegram Terbaik
+# PyroUbot Premium 
+**Userbot Telegram Terbaik**
 
 Userbot Telegram premium dengan fitur lengkap, UI modern, dan performa tinggi. Dibangun dengan Pyrogram untuk pengalaman terbaik.
 
@@ -37,7 +38,15 @@ Userbot Telegram premium dengan fitur lengkap, UI modern, dan performa tinggi. D
 - FFmpeg
 - VPS/Cloud dengan RAM 1GB+
 
-### Setup Otomatis
+### Otomatis Full
+# Pastikan Udah Ada Konfigurasi Yang Di Butuhkan
+```bash
+bash start.sh
+```
+# Isi Semua Pertanyaan Yang Di Berikan
+**Jika Kebingungan contact me: [Ibra Decode](t.me/ibradecode)**
+
+### Setup Manual
 ```bash
 # Update sistem
 apt update && apt upgrade -y
@@ -119,13 +128,6 @@ PyroUbot/
 ├── requirements.txt      # Python dependencies
 ├── start.sh             # Start script
 └── README.md            # This file
-```
-
-## Versi Obfuscated
-
-Untuk keamanan ekstra, gunakan versi obfuscated:
-```bash
-python3 PyroUbot_enc/__main__.py
 ```
 
 ## Troubleshooting
