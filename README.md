@@ -104,7 +104,7 @@ python3 -m PyroUbot
 ## Struktur Project
 
 ```
-ubotpremjojo/
+PyroUbot/
 ├── PyroUbot/              # Source code utama
 │   ├── __main__.py       # Entry point
 │   ├── config.py         # Konfigurasi
